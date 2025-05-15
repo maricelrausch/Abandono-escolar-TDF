@@ -1,4 +1,4 @@
-Predicción del Abandono Escolar en Nivel Secundario - Tierra del Fuego
+###Predicción del Abandono Escolar en Nivel Secundario - Tierra del Fuego
  
 Contexto:
 Tierra del Fuego presenta desafíos particulares en su sistema educativo debido a su geografía, distribución poblacional y condiciones sociales. Detectar a tiempo los factores que inciden en el abandono puede permitir acciones preventivas por parte de los equipos educativos y de gestión, mejorando la trayectoria escolar de los estudiantes.
