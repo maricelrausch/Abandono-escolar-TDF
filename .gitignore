@@ -12,10 +12,10 @@ __pycache__/
 Thumbs.db
 
 # Archivos de datos
-*.xlsx
-*.csv
-*.zip
-*.docx
+#*.xlsx
+#*.csv
+#*.zip
+#*.docx
 
 # Entornos virtuales
 env/
