@@ -65,6 +65,6 @@ docs/_build/
 .mypy_cache/
 
 # Estructura Cookiecutter
-data/raw/
-data/processed/
+#data/raw/
+#data/processed/
 
