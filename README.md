@@ -59,4 +59,4 @@ Este proyecto tiene como objetivo predecir la probabilidad de abandono escolar e
 
 ## Fuente:
 [https://ipiec.tierradelfuego.gob.ar/estadisticas-sociales-y-demograficas/](https://ipiec.tierradelfuego.gob.ar/estadisticas-sociales-y-demograficas/)
->>>>>>> bc4a747626bf0301870bb6b55739d521b5f4538f
+
