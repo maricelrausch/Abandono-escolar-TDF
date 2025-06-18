@@ -4,6 +4,9 @@ Este proyecto analiza el fenómeno del abandono escolar en la educación secunda
 
 El trabajo permite identificar patrones relevantes, evaluar modelos predictivos de abandono y comprender mejor la relación entre variables como repitencia, sobreedad y promoción efectiva.
 
+
+Video presentación: [Ver video en Google Drive](https://drive.google.com/file/d/1WGfOljuTdOVR5wRnUK_Py2YvobCvbK-5/view?usp=sharing)
+
 ---
 
 ## Contenido del repositorio
@@ -80,3 +83,10 @@ El trabajo sienta una base sólida para futuros análisis que incorporen otras v
 Proyecto académico realizado por Maricel Rausch  
 Materia: Aprendizaje Automático – 2º Año  
 Carrera: Ciencias de Datos e Inteligencia Artificial
+
+---
+
+## Video de Presentación
+
+Podés ver el video explicativo del proyecto en el siguiente enlace:
+
